@@ -3,5 +3,6 @@ module.exports = cds.service.impl(async function(srv) {
     srv.on('printhelloworld', req => {
         console.log(req.data.input) //print 
         return '$(req.data.input) World'
+        
     })
 })
