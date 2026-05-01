@@ -2,7 +2,8 @@
   "name": "carwh",
   "version": "1.0.0",
   "dependencies": {
-    "@sap/cds": "^9"
+    "@sap/cds": " ",
+    "@sap/cds-dk": "^9.9.0"
   },
   "devDependencies": {
     "@cap-js/sqlite": "^2"
